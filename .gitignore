@@ -1,0 +1,4 @@
+.env
+stepik_course_*/
+__pycache__/
+*.pyc
